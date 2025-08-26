@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>myinfodetails-Verify</name>
+   <tag></tag>
+   <elementGuidId>dfdd7032-f59c-41ea-b2d2-e1f468d17803</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d757a61f-2ae1-49b9-b03d-bad9f84fe7cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>07a2b54d-dbf9-4f14-b291-4cb3d46fe86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>firstNameTest lastNameTestPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameEmployee IdOther IdDriver's License NumberLicense Expiry DateNationality-- Select --Marital StatusSingleDate of BirthGenderMaleFemale * Required Save Custom FieldsBlood TypeA-Test_Field Save Attachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions</value>
+      <webElementGuid>2c467c97-9c0c-4540-931c-9a48df244009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>6d4e8287-e6a7-40b8-9f95-a61e20a51777</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>1b6ec1c3-bb9a-4c37-a073-85226cb1a344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>3634cc1a-0334-4c29-9376-f3b875160591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;firstNameTest lastNameTestPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameEmployee IdOther IdDriver&quot; , &quot;'&quot; , &quot;s License NumberLicense Expiry DateNationality-- Select --Marital StatusSingleDate of BirthGenderMaleFemale * Required Save Custom FieldsBlood TypeA-Test_Field Save Attachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions&quot;) or . = concat(&quot;firstNameTest lastNameTestPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameEmployee IdOther IdDriver&quot; , &quot;'&quot; , &quot;s License NumberLicense Expiry DateNationality-- Select --Marital StatusSingleDate of BirthGenderMaleFemale * Required Save Custom FieldsBlood TypeA-Test_Field Save Attachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions&quot;))]</value>
+      <webElementGuid>d942a522-3a95-493b-8efb-8c707c389356</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

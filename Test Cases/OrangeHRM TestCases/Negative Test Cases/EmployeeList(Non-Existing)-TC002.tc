@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EmployeeList(Non-Existing)-TC002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff212beb-f4c6-4649-8ebb-c7a090b28c77</testCaseGuid>
+</TestCaseEntity>
